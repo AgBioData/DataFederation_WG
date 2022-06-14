@@ -1,7 +1,8 @@
 # DataFederation
 [Code of Conduct](https://www.agbiodata.org/code-of-conduct)
 
-The Data Federation WG is soliciting challenges and use cases to better understand the needs of the AgBioData community. Please use the Discussions section of this GitHub repository to provide information. We will use this to complement the AgBioData survey results. 
+The Data Federation WG is soliciting challenges and use cases to better understand the needs of the AgBioData community. Please use the Discussions section of this GitHub repository to provide information. We will use the information posted here to complement the AgBioData survey results as part of a manuscript intended for publication.
+
 How to use this site:
 
 - If you see an existing discussion that interests you please add your thoughts and ideas! You can do this by commenting on a previous post or adding a new comment to the existing discussion
